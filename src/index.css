@@ -1,0 +1,25 @@
+html{
+  font-size: 16px;
+}
+body{
+  margin:0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #c7c7c7;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: inherit;
+}
+p{
+  margin: 0rem;
+}
+h3,h5{
+  margin: 0rem;
+}
+input:focus{
+  outline: none;
+}
+figure{
+  margin: 0rem;
+}

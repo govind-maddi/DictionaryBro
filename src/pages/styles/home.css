@@ -1,0 +1,33 @@
+#word_input{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+#word_input > input{
+    padding: 0.3rem;
+    font-size: 18px;
+    background-color: #ffffff;
+    border: none;
+}
+#word_input > button{
+    padding: 5.5px;
+    font-size: 18px;
+    border: none;
+    text-align: center;
+    background-color: #292929;
+    color: #ffffff;
+}
+#loader{
+    margin-top: 5rem;
+    padding: 10px;
+    text-align: center;
+    mix-blend-mode: multiply;
+}
+#word_dict{
+    padding: 20px 0px;
+}
+.word_dict_item{
+    padding: 15px 0px 15px 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    background-color: #ffffff;
+}
